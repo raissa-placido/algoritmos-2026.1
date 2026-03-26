@@ -1,3 +1,3 @@
 # algoritmos-2026.1 
 
-Repositório a armazenar os exercícios que venho realizando na discipliuna de algoritmos do curso de TADS - IFRN.
+Repositório para armazenar os exercícios que venho realizando na disciplina de Algoritmos do curso de TADS - IFRN.
